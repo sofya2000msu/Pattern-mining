@@ -1,0 +1,26 @@
+# input file
+EU14_float_L3_D7_T14.txt
+# output folder
+EU14rain_out
+# output prefix
+UK14
+# beta
+0
+# number of cores
+6
+# milli support (e.g. x1000)
+650
+# max group
+8
+# max Len
+16000000
+# maxLen2 (for temp)
+16000000
+# are patterns to be written in a file (1 - yes, 0 - no)
+1
+# time restriction (1 - yes, 0 - no)
+0
+# time restriction
+0.3
+# is ordered (1 - yes, 0 - no)
+1
